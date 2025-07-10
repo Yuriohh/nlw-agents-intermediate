@@ -8,6 +8,13 @@
       "when": 1751972157879,
       "tag": "0000_noisy_champions",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752056092809,
+      "tag": "0001_amusing_zombie",
+      "breakpoints": true
     }
   ]
 }
